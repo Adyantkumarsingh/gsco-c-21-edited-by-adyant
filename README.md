@@ -1,1 +1,2 @@
-# gsco-c-21-edited-by-adyant
+# p5.play-boilerplate
+Boiler plate for p5.play
